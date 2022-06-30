@@ -50,3 +50,7 @@ Colleciton of useful places to find out more about Glasgow tech.
 * [glasgow.social](https://glasgow.social/about) - twitter like micro blogging, Glasgow specific
 * [Open Tech Calendar](https://opentechcalendar.co.uk/event/11644-tech-meetup) - calendar of events (UK wide)
 * [RookieOven Blog](https://rookieoven.com/blog) - blog about Glasgow tech/startups
+
+## Awesome Scottish Tech
+
+- [Awesome Edinburgh Tech](https://github.com/telaco/awesome-edinburgh-tech)
